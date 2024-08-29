@@ -2,4 +2,4 @@
 
  - Love coding
 
-![alt text](./wow.png)
+<img src="./wow.png" alt="cute cat" width="50"/>
